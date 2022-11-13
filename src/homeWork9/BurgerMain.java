@@ -1,7 +1,6 @@
 package homeWork9;
 
 public class BurgerMain {
-
     public static void main(String[] args) {
 
         Burger usualBurger = new Burger("bun", "cheese", "herbs", "mayonnaise");
