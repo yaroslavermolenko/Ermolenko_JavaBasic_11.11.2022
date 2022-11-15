@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e00afe6-b4e7-462f-a79c-857b47f8202a" name="Changes" comment="init JavaBasic directory">
+    <list default="true" id="3e00afe6-b4e7-462f-a79c-857b47f8202a" name="Changes" comment="changes for GitHub">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork9/BurgerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork9/BurgerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork10/ContactInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork10/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork10/FitInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeWork10/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BurgerMain2">
+  <component name="RunManager" selected="Application.homeWork10.Main">
     <configuration name="BurgerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWork9.BurgerMain" />
       <module name="JavaBasic" />
@@ -78,19 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuttleNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeWork7.ShuttleNumbers" />
-      <module name="JavaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeWork7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShuttleNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWork7.ShuttleNumbers2" />
       <module name="JavaBasic" />
@@ -111,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homeWork10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeWork10.Main" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeWork10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeWork10.Main" />
         <item itemvalue="Application.BurgerMain2" />
         <item itemvalue="Application.BurgerMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ShuttleNumbers2" />
-        <item itemvalue="Application.ShuttleNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668351926162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes for GitHub">
+      <created>1668356058992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668356058992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +176,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init JavaBasic directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="init JavaBasic directory" />
+    <MESSAGE value="changes for GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes for GitHub" />
   </component>
 </project>
